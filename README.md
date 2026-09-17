@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Senpai
 
-<!--
-**Senpai0-0/Senpai0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+9th grade student passionate about software development 🌱
 
-Here are some ideas to get you started:
+- 💻 Currently learning: Python, HTML, CSS & JavaScript
+- 📚 Also exploring: Git & Web Development
+- 🎯 Goal: Become a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🐟 [Aquarium Manager](https://github.com/senpai/aquarium-manager)
+- 🤖 [Python Chatbot](https://github.com/senpai/python-chatbot)
+- 🌐 [Personal Portfolio](https://github.com/senpai/personal-portfolio)
+- 🧠 [Quiz Game](https://github.com/senpai/quiz-game)
+
+### 📊 Stats
+![Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpai&show_icons=true&theme=radical)
+
+### 📫 Reach me
+[GitHub](https://github.com/senpai)
