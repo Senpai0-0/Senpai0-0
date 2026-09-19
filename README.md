@@ -12,8 +12,6 @@
 - 🌐 [Personal Portfolio](https://github.com/senpai/personal-portfolio)
 - 🧠 [Quiz Game](https://github.com/senpai/quiz-game)
 
-### 📊 Stats
-![Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senpai0-0&show_icons=true&theme=radical)
 
 ### 📫 Reach me
 [GitHub](https://github.com/Senpai0-0)
