@@ -7,10 +7,10 @@
 - 🎯 Goal: Become a full-stack developer
 
 ### 🚀 Projects
-- 🐟 [Aquarium Manager](https://github.com/senpai/aquarium-manager)
-- 🤖 [Python Chatbot](https://github.com/senpai/python-chatbot)
-- 🌐 [Personal Portfolio](https://github.com/senpai/personal-portfolio)
-- 🧠 [Quiz Game](https://github.com/senpai/quiz-game)
+-  [To-do list](https://github.com/Senpai0-0/To-do-list)
+-  [rock-paper-scissors](https://github.com/Senpai0-0/rock-paper-scissors)
+-  [Personal Portfolio](https://github.com/Senpai0-0/Senpai0-0)
+-  [number-guessing-game](https://github.com/Senpai0-0/number-guessing-game)
 
 
 ### 📫 Reach me
