@@ -16,4 +16,5 @@
 ![Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpai&show_icons=true&theme=radical)
 
 ### 📫 Reach me
-[GitHub](https://github.com/senpai)
+[GitHub](https://github.com/Senpai0-0)
+
